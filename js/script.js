@@ -1,5 +1,6 @@
 // -Generate 10 email addresses and print them in a list, taking it from this API https://flynn.boolean.careers/exercises/api/random/mail
 
+//app VUE
 const app = new Vue({
   el: '#root',
   data: {
